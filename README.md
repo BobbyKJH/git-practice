@@ -60,3 +60,14 @@ _이텔릭_
 ```html
 <a href="https://www.naver.com/" target="_blank">NAVER</a>
 ```
+
+# 표
+
+position 속성
+
+| 값       | 의미              | 기본값 |
+| -------- | ----------------- | ------ |
+| static   | 기준 없음         | O      |
+| relative | 요소 자신         | X      |
+| absolut  | 위치 상 부모 요소 | X      |
+| fixed    | 뷰포트            | X      |
