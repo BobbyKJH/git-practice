@@ -33,7 +33,8 @@ _이텔릭_
 # 링크
 
 [GOOLGE](https://www.google.co.kr/)  
-[NAVER](https://www.naver.com/ "네이버로 이동!")
+[NAVER](https://www.naver.com/ "네이버로 이동!")  
+<a href="https://www.naver.com/" target="_blank">NAVER<a>
 
 # 이미지
 
@@ -53,3 +54,9 @@ _이텔릭_
 # 인라인 코드 강조
 
 인라인 `inline`
+
+# 블록 코드 강조
+
+```html
+<a href="https://www.naver.com/" target="_blank">NAVER</a>
+```
